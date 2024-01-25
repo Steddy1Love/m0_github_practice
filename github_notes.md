@@ -1,5 +1,5 @@
 # GitHub Notes
-
+<!-- Steddy was here -->
 To check your own understanding of GitHub, answer the questions that follow.
 
 1. **What is the purpose of GitHub?** Write your response here.
